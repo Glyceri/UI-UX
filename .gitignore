@@ -9,7 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-
+/[Bb]uildA/
+/[Bb]uildB/
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -34,6 +35,7 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+*.zip
 *.suo
 *.tmp
 *.user
